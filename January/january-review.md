@@ -10,7 +10,9 @@ I spent the first two weeks of my final graduation internship:
 - learning about microservices. </br>
 - learning more about React-Native. </br>
 
-I read about 100 pages from ["The Coding Career Handbook by Shawn Swyx Wang"](https://www.learninpublic.org/).
+I read about 100 pages from ["The Coding Career Handbook by Shawn Swyx Wang"](https://www.learninpublic.org/). </br>
+</br>
+I completed first 6 lessons from "Code With Mosh - The Ultimate Redux Course".
 
 ## Failures
 
